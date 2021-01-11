@@ -1,0 +1,39 @@
+h1{background:#93FFAB;}
+
+h3 {
+ line-height:1.5; border-bottom:solid red;
+ font-weight:bold;  border-width:3px;}
+
+
+a{color:blue; height:100px;}
+
+.hujityaku{
+  background:#CCFFFF;
+}
+
+
+body{
+  margin:10px 300px 50px 300px;
+ text-align:center; height:2; 
+}
+
+
+p{font-size:15px;
+}
+
+
+.subtame{background:#444444; color:#ffffff; font-size:20px;}
+
+.access{
+  background:#FFFFBB; width:200px; padding:3px 60px 3px 60px;
+}
+
+.a_line{text-align:center; display: block;}
+
+.a_line .b_line{text-align:left; display: inline-block;}
+
+.pagelink_6{text-align:center; display:block;}
+
+.pagelink_6  .text{text-align:left; display:inline-block;}
+
+.font-weight{font-weight:bold;}
